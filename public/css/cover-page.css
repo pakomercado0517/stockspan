@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Fjalla+One|Ubuntu');
+
+h1, h4 {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center; 
+	color:blue;
+}
+.stockspan-name {
+	font-size:50px;
+	font-style: italic;
+	text-shadow: 0 -4px 0 #4998F9; 
+}
+.stockspan-slogan {
+	font-size: 25px;
+	font-style: italic;
+	text-shadow: 0 -2px 0 #4998F9; 
+}
+.button-home {
+	text-align: center;
+	font-family:'Exo 2', sans-serif;
+}
+.button-home a {
+	text-decoration: none;
+	padding:12px 30px;
+	border: 1px solid blue;
+	border-radius: 10px;
+	box-shadow: 5px 4px 2px steelblue;
+}
+.button-home a:hover {
+	color:white;
+	box-shadow: 0 7px 9px steelblue;
+	background: #0A5DA4;
+}
+.logo-presentation {
+	text-align: center;
+}
